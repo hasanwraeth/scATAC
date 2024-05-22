@@ -7,4 +7,4 @@ snATACseq analysis using bwa, Seurat and Signac.
 
 UMAP of scATACseq      | QC scATACseq    
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/scATACseq/blob/main/Rplot.png)  |  ![](https://github.com/hasanwraeth/scATACseq/blob/main/Rplot1.png)
+![](https://github.com/hasanwraeth/scATACseq/blob/main/Rplot.png)  |  ![](https://github.com/hasanwraeth/scATACseq/blob/main/Rplot01.png)
