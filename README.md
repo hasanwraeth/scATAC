@@ -5,6 +5,6 @@
 
 snATACseq analysis using bwa, Seurat and Signac.
 
-UMAP of scATACseq      | QC scATACseq    
+Scatter plot for enriched peaks at TSS      | QC scATACseq    
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot.png)  |  ![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot01.png)
+![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot01.png)  |  ![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot01.png)
