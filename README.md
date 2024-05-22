@@ -20,3 +20,7 @@ QC metrics
 Integrated scRNAseq and scATACseq data
 :-------------------------:
 ![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot04.png)
+
+DA peak for BCL11B      | Genomic region view   
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot05.png)  |  ![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot06.png)
