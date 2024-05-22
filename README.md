@@ -16,3 +16,7 @@ TSS Enrichment      | Seq length by NS
 QC metrics 
 :-------------------------:
 ![](https://github.com/hasanwraeth/scATAC/blob/main/unnamed-chunk-14-1.png)
+
+Integrated scRNAseq and scATACseq data
+:-------------------------:
+![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot04.png)
