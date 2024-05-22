@@ -24,3 +24,11 @@ Integrated scRNAseq and scATACseq data
 DA peak for BCL11B      | Genomic region view   
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot05.png)  |  ![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot06.png)
+
+Joint scRNAseq and scATACseq UMAP
+:-------------------------:
+![](https://github.com/hasanwraeth/scATAC/blob/main/Rplotj.png)
+
+Joint scRNAseq and scATACseq Genomic region view
+:-------------------------:
+![](https://github.com/hasanwraeth/scATAC/blob/main/Rplot01j.png)
