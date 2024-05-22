@@ -12,3 +12,7 @@ Scatter plot for enriched peaks at TSS      | Correlation between sequencing dep
 TSS Enrichment      | Seq length by NS   
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/scATAC/blob/main/unnamed-chunk-12-1.png)  |  ![](https://github.com/hasanwraeth/scATAC/blob/main/unnamed-chunk-13-1.png)
+
+QC metrics 
+:-------------------------:
+![](https://github.com/hasanwraeth/scATAC/blob/main/unnamed-chunk-14-1.png)
