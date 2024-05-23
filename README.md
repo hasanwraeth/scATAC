@@ -32,7 +32,7 @@ Joint scRNAseq and scATACseq UMAP
 Joint scRNAseq and scATACseq Genomic region view
 :-------------------------:
 ![](https://github.com/hasanwraeth/scATAC/blob/main/Rplotj01.png)
-'
-Predicted Motifs
-:-------------------------:
-![](https://github.com/hasanwraeth/scATAC/blob/main/Motif.png)
+
+Predicted Motifs     | TF Footprint
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/scATAC/blob/main/Motif.png)  |  ![](https://github.com/hasanwraeth/scATAC/blob/main/TF.png)
