@@ -35,4 +35,4 @@ Joint scRNAseq and scATACseq Genomic region view
 
 Predicted Motifs     | TF Footprint
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/scATAC/blob/main/Motif.png)  |  ![](https://github.com/hasanwraeth/scATAC/blob/main/TF.png)
+![](https://github.com/hasanwraeth/scATAC/blob/main/Motif.png|rotate="90") |  ![](https://github.com/hasanwraeth/scATAC/blob/main/TF.png)
